@@ -55,20 +55,19 @@ After successful login, users are presented with an ATM menu containing differen
 ## Program Output
 
 ### ATM Login
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/931a6699-9622-4cea-bc07-d523937110ff" />
-
+<img width="598" height="475" alt="Screenshot (473)" src="https://github.com/user-attachments/assets/0238bf79-69b1-411e-99a0-196cdd68a6a3" />
 
 ### Check Balance
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8337fa1-a1ec-4cf9-b5f9-374ac5471a2e" />
+<img width="559" height="387" alt="Screenshot (474)" src="https://github.com/user-attachments/assets/e8467062-a52c-4a8c-8894-abb4c1b90114" />
 
 ### Deposit 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/679ca956-e854-41a8-a8c1-5c46fd9ec734" />
+<img width="618" height="385" alt="Screenshot (475)" src="https://github.com/user-attachments/assets/5324d0f3-d4a7-4a3f-897b-f936c796a639" />
 
 ### Withdraw
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb909d27-5c62-4c91-8a51-3a5441c54b14" />
+<img width="726" height="387" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/b9b8df81-6c4e-44cc-a99d-8f4a29d294a1" />
 
 ### Mini Statement
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61fe4e14-3396-41f0-8c36-55e9a84a9bdb" />
+<img width="702" height="444" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/576be24c-2886-4806-9ec0-10e4307cc247" />
 
 ## Security & Validation
 
