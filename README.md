@@ -45,24 +45,24 @@ ATM-Management-System/
 ├── ATM_Management_System.cpp
 └── README.md
 
-##How It Works
+## How It Works
 
 The program initializes multiple sample accounts and provides an authentication system for account access.
 
 After successful login, users are presented with an ATM menu containing different banking operations. Each operation is implemented through a separate function to keep the program organized and modular.
 
-##Security & Validation
+## Security & Validation
 
 The system includes:
 
--PIN-based authentication
--Limited login attempts
--Account locking after repeated incorrect PIN entries
--Balance verification before withdrawals and transfers
--Daily withdrawal limits
--Basic amount validation
+- PIN-based authentication
+- Limited login attempts
+- Account locking after repeated incorrect PIN entries
+- Balance verification before withdrawals and transfers
+- Daily withdrawal limits
+- Basic amount validation
 
-##Project Purpose
+## Project Purpose
 
 This project was developed as an academic programming project to apply fundamental C++ concepts to a practical banking simulation.
 
