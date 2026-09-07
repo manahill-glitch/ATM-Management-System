@@ -44,6 +44,7 @@ ATM-Management-System/
 │
 ├── ATM_Management_System.cpp
 └── README.md
+```
 
 ## How It Works
 
