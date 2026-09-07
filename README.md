@@ -85,5 +85,7 @@ The system includes:
 This project was developed as an academic programming project to apply fundamental C++ concepts to a practical banking simulation.
 
 Author
+
 Manahil Rehman
+
 BS Artificial Intelligence Student
